@@ -1,4 +1,4 @@
-"""src/streaming/consumer_case.py.
+"""src/streaming/kafka_consumer_case.py.
 
 Kafka consumer: full pipeline example.
 
@@ -9,7 +9,7 @@ Date: 2026-05
 
 Terminal command to run this file from the root project folder:
 
-    uv run python -m streaming.consumer_case
+    uv run python -m streaming.kafka_consumer_case
 
 OBS:
   Don't edit this file - it should remain a working example.

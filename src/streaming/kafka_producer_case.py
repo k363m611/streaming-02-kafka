@@ -1,4 +1,4 @@
-"""src/streaming/producer_case.py - Kafka producer example.
+"""src/streaming/kafke_producer_case.py - Kafka producer example.
 
 Reads sales from data/sales.csv
 and sends records to a Kafka topic one message at a time.
@@ -8,7 +8,7 @@ Date: 2026-05
 
 Terminal command to run this file from the root project folder:
 
-    uv run python -m streaming.producer_case
+    uv run python -m streaming.kafka_producer_case
 
 OBS:
   Don't edit this file - it should remain a working example.
